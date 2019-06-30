@@ -1,4 +1,0 @@
-﻿  Main.cpp
-d:\profiles\njp2424\desktop\physics\level4\physics-aabb2d-mastervs2019\aabb2d\main.cpp(148): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-d:\profiles\njp2424\desktop\physics\level4\physics-aabb2d-mastervs2019\aabb2d\main.cpp(175): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  AABB2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level4\physics-AABB2D-masterVS2019\AABB2D\Debug\AABB2D.exe
